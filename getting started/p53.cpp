@@ -14,3 +14,5 @@ sum += value; // equivalent to sum = sum + value
 std::cout << "Sum is: " << sum << std::endl;
 return 0;
 }
+
+//in vs code re run the file to get the output 
