@@ -25,6 +25,7 @@ return 0;
 
 
 // in program 1.17 program will neither stop nor give any output
-// in program 1.18 program will always output that  last no.(currval)  occured 2 times
+// in program 1.18 program will always output that  last no.(currval)  occured 1 times
 
 
+// in program 1.19 is revise task
