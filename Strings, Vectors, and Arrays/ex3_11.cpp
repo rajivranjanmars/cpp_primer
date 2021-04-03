@@ -3,11 +3,7 @@
 #include <string>
 using namespace std;
 int main(){
-
-string x;
-cin >> x;
-for (auto &c:x) c='x';
-
-cout << x << endl;
+       const string s = "Keep out!";
+for (auto &c : s) { /* ... */ }       
  return 0;
 }

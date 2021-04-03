@@ -4,10 +4,8 @@
 using namespace std;
 int main(){
 
-string x;
-cin >> x;
-for (auto &c:x) c='x';
+      string s;
+cout << s[0] << endl;
 
-cout << x << endl;
  return 0;
 }
