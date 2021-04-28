@@ -9,6 +9,7 @@ int main(){
         s.push_back(x);
     
     for (const auto &k :s)
-    cout << k << endl;           
+    cout << k << endl;    
+           
  return 0;
 }
