@@ -13,3 +13,7 @@ coodes from book cpp primer
      ex:- if a code is of  question number 20 of  chap1 , it is named as ex1_20
      
      Please follow me on github and star my repos to be updated with the codes that i write.
+
+## Author
+
+[rajivranjanmars](https://rajivranjana.in)
