@@ -16,4 +16,4 @@ coodes from book cpp primer
 
 ## Author
 
-[rajivranjanmars](https://rajivranjana.in)
+[Rajiv Ranjan](https://rajivranjan.in)
